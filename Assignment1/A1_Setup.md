@@ -1,15 +1,12 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
-
 ## Assignment 1: Getting Set-Up (10 Points)
 
 The purpose of this assignment is to make sure you have the tools you'll need you to use
 for COGS108. Notably, we'll be using Python, Jupyter notebooks, and git/GitHub. Since we're using [datahub](http://datahub.ucsd.edu) you won't *need* a local version of Jupyter or Python on your computer. So, for this assignment, we'll focus on getting you set up on GitHub.
 
 The sections will include a git/GitHub tutorial and support for getting everything installed. 
+
+### Due Date
+- 11:59 pm on Sunday, October 13
 
 ### Tasks / Learning Goals
 
